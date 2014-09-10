@@ -21,5 +21,5 @@ This repository contains **Dockerbase** of [Java7](http://www.oracle.com/technet
     docker run -it --rm dockerbase/java7
 
 ### Information
-[Components & Versions](https://github.com/dockerbase/java7/COMPONENTS)
+[Components & Versions](https://github.com/dockerbase/java7/blob/master/COMPONENTS)
 
